@@ -1,5 +1,5 @@
 
 
 def #display_rainbow(colors)
-  puts "r "
+  print "this"
 end
