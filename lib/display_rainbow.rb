@@ -1,5 +1,5 @@
 
 
-def #display_rainbow(colors)
+def display_rainbow(colors)
   print "this"
 end
